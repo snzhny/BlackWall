@@ -1,0 +1,9 @@
+{
+    "::1": {
+        "SQL Injection": 15,
+        "DDoS": 202
+    },
+    "89.45.7.187": {
+        "SQL Injection": 8
+    }
+}
