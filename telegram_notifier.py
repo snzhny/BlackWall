@@ -1,7 +1,7 @@
 import requests
 
-TELEGRAM_BOT_TOKEN = "7463823650:AAEbOKvpNvGPvNt7Fypot0bl8RPiBYPhAj4"
-CHAT_ID = "-4698305426"
+TELEGRAM_BOT_TOKEN = ""
+CHAT_ID = ""
 
 
 def send_telegram_message(message=None, ip=None, attack_time=None, suspicious_url=None):
